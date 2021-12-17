@@ -19,6 +19,7 @@ The player always faces the direction of its movement. and you control the camer
 
 <br/>
 Animation keys: 
+<br/>
 - 'f': moves the fence up and down.
 - 't': makes the tree revolve around themselves 
 - 'l': makes the lanterns rotate around the scene. 
