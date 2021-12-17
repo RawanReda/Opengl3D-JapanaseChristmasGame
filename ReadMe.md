@@ -16,11 +16,10 @@ Instructions:
 - Front arrow: moves the player to the front. 
 - Back arrow: move sthe player to the back. <br/>
 The player always faces the direction of its movement. and you control the camera view angle via the 'd', 'a' ,'w' amd 's' keys. 
-
 <br/>
 Animation keys: 
 <br/>
-- f: moves the fence up and down.
+- 'f': moves the fence up and down.
 - 't': makes the tree revolve around themselves 
 - 'l': makes the lanterns rotate around the scene. 
 - 'o': makes the snowman translate to the left and right back and forth.
