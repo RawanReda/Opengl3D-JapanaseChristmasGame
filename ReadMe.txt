@@ -39,7 +39,7 @@ should add to or customize.
 
 /////////////////////////////////////////////////////////////////////////////
 
-<h1>Game description:</h1>
+# Game description:
 
 The scene has different 3D objects and a character collecting some presents. The goal is to collect the presents before the time ends.
 Each has an animation key and the game has 3 different views: front, side and top view. 
