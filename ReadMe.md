@@ -65,4 +65,7 @@ A sound is associated with each animation and once the player succeeds/ fails a 
 Happy Game!
 <br/>
 Here are some screen shots: 
+<img width="605" alt="game3d _scene1" src="https://user-images.githubusercontent.com/51987270/146531531-9538813e-a8b9-4c15-89b0-0d7cf4edbab0.PNG"><img width="599" alt="scene3" src="https://user-images.githubusercontent.com/51987270/146531553-22164f5f-a6f5-46c8-b9ba-f4a1474f53c6.PNG">
+ <img width="641" alt="side view scene" src="https://user-images.githubusercontent.com/51987270/146531545-704c0d33-d86f-4be8-bde9-db7ab907c34c.PNG">
+
 
