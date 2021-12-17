@@ -38,3 +38,31 @@ AppWizard uses "TODO:" comments to indicate parts of the source code you
 should add to or customize.
 
 /////////////////////////////////////////////////////////////////////////////
+
+<h1>Game description:</h1>
+
+The scene has different 3D objects and a character collecting some presents. The goal is to collect the presents before the time ends.
+Each has an animation key and the game has 3 different views: front, side and top view. 
+<br/>
+Instructions: 
+<br/>
+- Left arrow: moves the player to the left. 
+- Right arrow: moves the player to the left. 
+- Front arrow: moves the player to the front. 
+- Back arrow: move sthe player to the back. <br/>
+The player always faces the direction of its movement. 
+<br/>
+Animation keys: 
+- 'f': moves the fence up and down.
+- 't': makes the tree revolve around themselves 
+- 'l': makes the lanterns rotate around the scene. 
+- 'o': makes the snowman translate to the left and right back and forth.
+- 'p': moves the presents up. 
+<br/>
+Once you reselect the key, the animation stops. 
+<br/>
+A sound is associated with each animation and once the player succeeds/ fails a different sound is run. <br/>
+Happy Game!
+<br/>
+Here are some screen shots: 
+
