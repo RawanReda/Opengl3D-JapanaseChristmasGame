@@ -82,7 +82,12 @@
     <None Include="ReadMe.txt" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="C:\Users\hp\Desktop\Test.cpp" />
+    <ClCompile Include="C:\Users\hp\Desktop\tree.cpp" />
     <ClCompile Include="OpenGL3DTemplate.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <Media Include="C:\Users\hp\Desktop\sound\score-point.wav" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
