@@ -1,41 +1,6 @@
-========================================================================
-    CONSOLE APPLICATION : OpenGL3DTemplate Project Overview
-========================================================================
-
-AppWizard has created this OpenGL3DTemplate application for you.
-
-This file contains a summary of what you will find in each of the files that
-make up your OpenGL3DTemplate application.
-
-
-OpenGL3DTemplate.vcxproj
-    This is the main project file for VC++ projects generated using an Application Wizard.
-    It contains information about the version of Visual C++ that generated the file, and
-    information about the platforms, configurations, and project features selected with the
-    Application Wizard.
-
-OpenGL3DTemplate.vcxproj.filters
-    This is the filters file for VC++ projects generated using an Application Wizard. 
-    It contains information about the association between the files in your project 
-    and the filters. This association is used in the IDE to show grouping of files with
-    similar extensions under a specific node (for e.g. ".cpp" files are associated with the
-    "Source Files" filter).
 
 OpenGL3DTemplate.cpp
     This is the main application source file.
-
-/////////////////////////////////////////////////////////////////////////////
-Other standard files:
-
-StdAfx.h, StdAfx.cpp
-    These files are used to build a precompiled header (PCH) file
-    named OpenGL3DTemplate.pch and a precompiled types file named StdAfx.obj.
-
-/////////////////////////////////////////////////////////////////////////////
-Other notes:
-
-AppWizard uses "TODO:" comments to indicate parts of the source code you
-should add to or customize.
 
 /////////////////////////////////////////////////////////////////////////////
 
@@ -50,7 +15,8 @@ Instructions:
 - Right arrow: moves the player to the left. 
 - Front arrow: moves the player to the front. 
 - Back arrow: move sthe player to the back. <br/>
-The player always faces the direction of its movement. 
+The player always faces the direction of its movement. and you control the camera view angle via the 'd', 'a' ,'w' amd 's' keys. 
+
 <br/>
 Animation keys: 
 - 'f': moves the fence up and down.
@@ -66,6 +32,6 @@ Happy Game!
 <br/>
 Here are some screen shots: 
 <img width="605" alt="game3d _scene1" src="https://user-images.githubusercontent.com/51987270/146531531-9538813e-a8b9-4c15-89b0-0d7cf4edbab0.PNG"><img width="599" alt="scene3" src="https://user-images.githubusercontent.com/51987270/146531553-22164f5f-a6f5-46c8-b9ba-f4a1474f53c6.PNG">
- <img width="641" alt="side view scene" src="https://user-images.githubusercontent.com/51987270/146531545-704c0d33-d86f-4be8-bde9-db7ab907c34c.PNG">
+<img width="641" alt="side view scene" src="https://user-images.githubusercontent.com/51987270/146531545-704c0d33-d86f-4be8-bde9-db7ab907c34c.PNG">
 
 
