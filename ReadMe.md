@@ -15,7 +15,7 @@ Instructions:
 - Right arrow: moves the player to the left. 
 - Front arrow: moves the player to the front. 
 - Back arrow: move sthe player to the back. <br/>
-The player always faces the direction of its movement. and you control the camera view angle via the 'd', 'a' ,'w' amd 's' keys. 
+The player always faces the direction of its movement. and you control the camera view angle via the 'd', 'a' ,'w' and 's' keys. 
 <br/>
 Animation keys: 
 
