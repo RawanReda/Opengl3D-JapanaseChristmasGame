@@ -23,8 +23,8 @@ Animation keys:
 - 't': makes the tree revolve around themselves 
 - 'l': makes the lanterns rotate around the scene. 
 - 'o': makes the snowman translate to the left and right back and forth.
-- 'p': moves the presents up. 
-<br/>
+- 'p': moves the presents up. <br/>
+
 Once you reselect the key, the animation stops. 
 <br/>
 A sound is associated with each animation and once the player succeeds/ fails a different sound is run. <br/>
