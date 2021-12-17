@@ -1,0 +1,2 @@
+E:\dmet502\OpenGL3DTemplate_24784\OpenGL3DTemplate\Debug\OpenGL3DTemplate.exe
+E:\dmet502\OpenGL3DTemplate_24784\OpenGL3DTemplate\Debug\OpenGL3DTemplate.pdb
