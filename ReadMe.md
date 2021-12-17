@@ -24,10 +24,11 @@ Animation keys:
 - 'l': makes the lanterns rotate around the scene. 
 - 'o': makes the snowman translate to the left and right back and forth.
 - 'p': moves the presents up. 
-
+<br/>
 Once you reselect the key, the animation stops. 
 <br/>
 A sound is associated with each animation and once the player succeeds/ fails a different sound is run. <br/>
+<br/>
 Happy Game!
 <br/>
 Here are some screen shots: 
